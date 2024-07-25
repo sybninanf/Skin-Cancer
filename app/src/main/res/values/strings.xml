@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SkinG</string>
+
+        <string name="title_activity_main2">MainActivity2</string>
+        <string name="navigation_drawer_open">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+        <string name="nav_header_title">Android Studio</string>
+        <string name="nav_header_subtitle">android.studio@android.com</string>
+        <string name="nav_header_desc">Navigation header</string>
+        <string name="action_settings">Settings</string>
+
+        <string name="menu_home">Home</string>
+        <string name="menu_gallery">Gallery</string>
+        <string name="menu_slideshow">Slideshow</string>
+        <string name="us">Skin Guardian is an innovative app for early detection of skin cancer using AI and machine learning. Users can take photos of suspicious skin areas, and the app analyzes the images to detect early signs of cancer, including melanoma. The app also offers educational features about symptoms, risk factors, and preventive measures. With its user-friendly interface and quick, accurate results, Skin Guardian aids in early cancer detection and raises awareness about the importance of regular skin checks, making it a reliable personal health assistant in the fight against skin cancer. </string>
+         <string name="copyright">Copyright © 2024 Syabina Nur Pajriyanti</string>
+</resources>

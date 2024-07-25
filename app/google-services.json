@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "45121446186",
+    "firebase_url": "https://sking-e2290-default-rtdb.firebaseio.com",
+    "project_id": "sking-e2290",
+    "storage_bucket": "sking-e2290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45121446186:android:0469a24be048b897f4be53",
+        "android_client_info": {
+          "package_name": "com.dicoding.sking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChXl001f49f-79fldW_Yx3jNsGQC6ILK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45121446186:android:a442ee3a6b4fde61f4be53",
+        "android_client_info": {
+          "package_name": "com.example.sking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChXl001f49f-79fldW_Yx3jNsGQC6ILK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
